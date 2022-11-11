@@ -1,0 +1,23 @@
+{
+    "name": "achttienvijftien/building-techniques",
+    "description": "Building techniques for WordPress",
+    "type": "phpcodesniffer-standard",
+    "require": {
+        "wp-coding-standards/wpcs": "dev-develop as 2.3.0.1"
+    },
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "1815",
+            "email": "it@1815.nl"
+        }
+    ],
+    "suggest": {
+        "dealerdirect/phpcodesniffer-composer-installer": "Allows for easy installation of PHP_CodeSniffer coding standards"
+    },
+    "require-dev": {
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.7.2"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
