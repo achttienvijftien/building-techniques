@@ -3,7 +3,7 @@
     "description": "Building techniques for WordPress",
     "type": "phpcodesniffer-standard",
     "require": {
-        "wp-coding-standards/wpcs": "dev-develop as 2.3.0.1"
+        "wp-coding-standards/wpcs": "^3.0"
     },
     "license": "GPL-3.0-or-later",
     "authors": [
