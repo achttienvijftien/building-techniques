@@ -46,8 +46,7 @@
     <!--
     Line length
 
-    Lines should be 100 chars long at max (triggers warning),
-    and should in no case exceed 120 characters (triggers error).
+    Lines should be 130 chars long at max.
     -->
     <rule ref="Generic.Files.LineLength">
         <properties>
