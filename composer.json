@@ -16,7 +16,7 @@
         "dealerdirect/phpcodesniffer-composer-installer": "Allows for easy installation of PHP_CodeSniffer coding standards"
     },
     "require-dev": {
-        "dealerdirect/phpcodesniffer-composer-installer": "^0.7.2"
+        "dealerdirect/phpcodesniffer-composer-installer": "^1.2.1"
     },
     "minimum-stability": "dev",
     "prefer-stable": true

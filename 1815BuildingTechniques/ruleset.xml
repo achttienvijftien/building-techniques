@@ -82,6 +82,7 @@
 
     <rule ref="WordPress.PHP">
         <exclude name="WordPress.PHP.DisallowShortTernary.Found"/>
+        <exclude name="WordPress.PHP.POSIXFunctions"/>
     </rule>
 
     <rule ref="Squiz.Commenting.FunctionComment">
